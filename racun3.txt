@@ -1,0 +1,4 @@
+2024-03-10
+Jabuka,4,2.70
+Mlijeko,2,3.50
+Cokolada,5,1.20
