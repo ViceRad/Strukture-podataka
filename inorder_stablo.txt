@@ -1,0 +1,5 @@
+Inorder prolazak nakon kreiranja stabla:
+88 57 72 13 39 68 79 30 67 38 
+
+Inorder prolazak nakon replace() funkcije:
+0 160 0 217 407 109 0 79 484 0 
